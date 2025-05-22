@@ -44,7 +44,7 @@
                         <p>Від простих алгоритмів до складних нейронних мереж, ШІ трансформує галузі від медицини до фінансів, автоматизуючи процеси та відкриваючи нові можливості.</p>
                     </div>
                     <div class="image-content">
-                        <img src="assets/images/ai-concept.jpg" alt="Концепція Штучного Інтелекту">
+                        <img src="jpghttps://www.pabu.com.ua/images/Ai_ethics.jpg" alt="Концепція Штучного Інтелекту">
                     </div>
                 </div>
             </div>
@@ -104,11 +104,8 @@
     </main>
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2025 AI Insight. Всі права захищені.</p>
+            <p>&copy; 7А Кунак +Домолега.</p>
             <div class="social-links">
-                <a href="#" aria-label="Facebook"><img src="assets/images/facebook-icon.svg" alt="Facebook"></a>
-                <a href="#" aria-label="Twitter"><img src="assets/images/twitter-icon.svg" alt="Twitter"></a>
-                <a href="#" aria-label="LinkedIn"><img src="assets/images/linkedin-icon.svg" alt="LinkedIn"></a>
             </div>
         </div>
     </footer>
